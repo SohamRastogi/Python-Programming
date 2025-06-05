@@ -1,0 +1,6 @@
+my name is soham rastogi.
+1223
+12
+45
+this is basic python programming with exception handling.
+

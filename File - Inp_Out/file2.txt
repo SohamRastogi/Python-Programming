@@ -1,0 +1,4 @@
+this is basic python programming.
+it has reached to advanced python programming now.
+this is file handling.
+this is file input and output operations.hello world

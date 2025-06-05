@@ -1,0 +1,5 @@
+this is the information technology course in sem 2 of out department.
+it has two main technologies -> shell scripting and python programming.
+the name of the course is ITW - 1 and the course code of CSE103N.
+the first part was Unix and shell scripting with a lot of linux commands.
+the second part was of basic python programming which suddenly turned to advanced python programming after the first 2 lectures.
